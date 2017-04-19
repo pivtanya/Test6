@@ -1,0 +1,3 @@
+Hi Yuriy!
+Press F2 to save
+press F10 to exit
